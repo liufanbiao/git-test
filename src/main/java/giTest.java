@@ -7,5 +7,6 @@ public class giTest {
         System.out.println("hello git4");
         System.out.println("hello git5");
 
+        System.out.println("hello git5");
     }
 }
